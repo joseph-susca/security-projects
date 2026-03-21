@@ -62,7 +62,8 @@ Canonical. (2023). *Configure a static IP address* (Ubuntu Server Documentation)
 Microsoft Docs (Woshub). (2024). *Configure Windows networking and IP addresses using PowerShell.* Woshub. [https://woshub.com/powershell-configure-windows-networking/](https://woshub.com/powershell-configure-windows-networking/)  
 
 **Appendix A**  
-![**Wazuh Dashboard and Security Events**](wazuh-siem/images/image10.png)
+![**Wazuh Dashboard and Security Events**](security-projects/wazuh-siem/images/image10.png)
+
         This appendix displays several screenshots of the Wazuh Security Information and Event Monitoring dashboard, which were taken during the implementation and testing phases. Firstly, the dashboard shows that both the Windows and Ubuntu clients were successfully connected to the Wazuh server. Following that screenshot, there is evidence of brute force attempts on both machines, signified by the number of authentication failures. Looking more closely, the security events show each time a login failed, and the Ubuntu machine even alerts to possible brute force attempts. With each event, we are provided with the agent name of the machine, a description of the event, and a corresponding severity level.  
         This appendix is relevant to the project because it aligns with Goal 2: Implement centralized monitoring capabilities through a Wazuh SIEM. These screenshots prove that the Wazuh SIEM was successfully implemented and connected to computers on the network, as well as alerting to real-world cybersecurity attacks. 
  
