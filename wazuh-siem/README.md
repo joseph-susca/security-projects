@@ -34,10 +34,10 @@ Joseph D Susca
         The second objective of this goal was to simulate cyberattacks on the network to gauge the effectiveness of the Wazuh SIEM. Overall, this objective was successfully achieved through the attacks carried out by the Kali Linux machine on the network. During the initial network reconnaissance, Wazuh detected unusual activity and flagged it as a security event within the dashboard. Wireshark was then used to confirm the validity of the security alerts, successfully verifying their legitimacy. Following the network reconnaissance, remote access attempts were carried out using SSH on both the Windows and Ubuntu clients. These authentication failures were detected and immediately flagged as security events on the Wazuh dashboard, enabling further analysis. These failed login attempts were correctly categorized by event type and severity level, showing Wazuh’s ability to handle real-world cyberattacks.  
 
 **Project Timeline**
-
 | Milestone/Deliverable | Planned Duration | Actual Duration | Actual Start | Actual End |
+|----------------------|-----------------|-----------------|--------------|------------|
 | Project Kickoff and Environment Review | 1 Day | 1 Day | 11/11/25 | 11/11/25 |
-| Develop Incident Response Plan and Training Framework | 1 Day | 1 Day | 11/12/25 | 11/12/25 |
+| Develop Incident Response Plan | 1 Day | 1 Day | 11/12/25 | 11/12/25 |
 | Implement and Configure Wazuh SIEM | 1 Day | 3 Days | 11/13/25 | 11/15/25 |
 | Conduct Simulated Cybersecurity Attacks | 3 Hours | 2 Days | 11/16/25 | 11/17/25 |
 | SIEM Test Report and Final Overview | 2 Days | 2 Days | 11/18/25 | 11/19/25 |
