@@ -1,4 +1,4 @@
-# Joseph Susca — Cybersecurity Portfolio
+# Joseph Susca - Cybersecurity Portfolio
 
 ## About Me
 U.S. Army National Guard service member and 
