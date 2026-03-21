@@ -42,8 +42,7 @@ Joseph D Susca
 | Conduct Simulated Cybersecurity Attacks | 3 Hours | 2 Days | 11/16/25 | 11/17/25 |
 | SIEM Test Report and Final Overview | 2 Days | 2 Days | 11/18/25 | 11/19/25 |
 
-
-        Although the initial timeline anticipated a very short completion window for each milestone or deliverable, not all milestones were achieved as quickly as originally expected. The environmental review posed little challenge and was completed within its given timeframe. However, significant delays occurred in the implementation and configuration of the Wazuh SIEM, as well as in conducting the simulated cyberattacks. While these two milestones were originally anticipated to take less than one and a half days combined, they actually took five days of work due to setbacks that will be discussed in the “Unanticipated Scope Creep” section of this report.  
+ Although the initial timeline anticipated a very short completion window for each milestone or deliverable, not all milestones were achieved as quickly as originally expected. The environmental review posed little challenge and was completed within its given timeframe. However, significant delays occurred in the implementation and configuration of the Wazuh SIEM, as well as in conducting the simulated cyberattacks. While these two milestones were originally anticipated to take less than one and a half days combined, they actually took five days of work due to setbacks that will be discussed in the “Unanticipated Scope Creep” section of this report.  
         Despite these setbacks, the project was completed within a reasonable timeframe and with tangible deliverables. Although additional time was spent implementing and configuring the Wazuh SIEM and conducting subsequent cyberattacks, this extra time was necessary to deliver a fully fleshed-out product that will provide quantifiable benefits to Hypothetical IT Solutions.  
 
 **Unanticipated Scope Creep**  
