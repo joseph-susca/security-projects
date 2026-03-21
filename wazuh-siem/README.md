@@ -67,12 +67,12 @@ Microsoft Docs (Woshub). (2024). *Configure Windows networking and IP addresses 
         This appendix is relevant to the project because it aligns with Goal 2: Implement centralized monitoring capabilities through a Wazuh SIEM. These screenshots prove that the Wazuh SIEM was successfully implemented and connected to computers on the network, as well as alerting to real-world cybersecurity attacks. 
  
 **Appendix B**  
-**Kali Linux Attack Simulation**  
+![**Kali Linux Attack Simulation**](images/image1.png)
         In this appendix, there are screenshots from the Kali Linux machine terminal, which was acting as the attacker machine in this project. The images display the output of the network reconnaissance, which includes all active machines on the network, their open ports and services, as well as their operating systems. Alongside the Nmap output, the brute force attempt against the Windows machine using SSH is also present. This appendix demonstrates that malicious activity was occurring on the network and that successful reconnaissance was possible.  
         This appendix is relevant to the project through Goal 2, Objective 2.2: Simulate cybersecurity incidents to gauge SIEM effectiveness. In these screenshots, it is shown that real-world cyberattacks were being used against the machines and the network. These actions generated Wazuh SIEM security alerts, demonstrating its functionality in response to real-world cyberattacks.  
 
 **Appendix C**  
-**Wireshark Packet Captures**  
+![**Wireshark Packet Captures**](images/image2.png)
         Appendix C includes screenshots from the Wireshark tool, showing malicious network activity that occurred in real-time. These images display large volumes of Address Resolution Protocol (ARP) requests, which the attacker's machine uses to locate other computers on the network. Alongside this, Transmission Control Protocol (TCP) requests are being sent out, indicating that the attacker's machine is attempting to establish a connection with other hosts on the network. These screenshots demonstrate how Wireshark was utilized to verify suspicious network activity following the generation of more generic security events by Wazuh.  
         This appendix supports the project by assisting in the testing phase and demonstrating the usefulness of a structured system, such as the Software Development Life Cycle (SDLC) methodology. Although Wireshark was not part of the project’s original scope, the tool proved essential in verifying malicious activity over the network. These screenshots not only demonstrate that an effective central monitoring system was implemented, but also that a reliable method for validation and further analysis is available when the initial automated security alert may not provide sufficient information.  
 PAGE
