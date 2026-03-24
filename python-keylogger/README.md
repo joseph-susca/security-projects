@@ -72,7 +72,18 @@ with Listener(on_press=on_press) as listener:
     listener.join()
 ```
 
+## USB Deployment
+Once the keylogger was developed, the ".py" file was disguised as a
+txt file named "passwords.txt", with the intention of luring a curious
+person to open the unsuspecting file. Once the file was executed, a black
+command prompt style window would open on the users screen and remain
+stationary. While a more technically inclined user would end this program
+rather quickly, this is okay for the purpose of this project.
 
+The actual "keylogger.py" file has been set to be hidden on the USB drive,
+remaining unseen to the majority of users. With this, only the malicious .txt file
+is present, showcasing a common social engineering tactic used in real USB drop
+attacks.
 
 
 
