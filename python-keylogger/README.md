@@ -38,7 +38,7 @@ then logged into a locally saved txt file with timestamps for further
 analysis. Special characters and inputs are also detected, but displayed 
 separately when logged for readability.
 
-```python
+```
 # import libraries and such things
 from pynput.keyboard import Key, Listener
 import logging
