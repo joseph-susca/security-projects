@@ -85,7 +85,11 @@ remaining unseen to the majority of users. With this, only the malicious .txt fi
 is present, showcasing a common social engineering tactic used in real USB drop
 attacks.
 
+## Demonstration
 
+### USB Contents
+The USB drive, as seen by the target. Only the disguised shortcut is visible
+![USB Contents Hidden](images/usb_hidden.jpg)
 
 
 
