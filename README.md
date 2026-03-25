@@ -13,6 +13,7 @@ active DoD Secret clearance targeting SOC Analyst roles.
 | Project | Description | Tools |
 |---------|-------------|-------|
 | [Wazuh SIEM Implementation](./wazuh-siem/) | Deployed and configured a Wazuh SIEM including agent setup, custom rules, and alert tuning | Wazuh, Linux |
+| [Python Keylogger / USB Drop Simulation](./python-keylogger/) | Developed a keylogger in Python and simulated a USB drop attack | Python, Windows |
 
 ## Certifications
 | Certification | Issuer | Date |
