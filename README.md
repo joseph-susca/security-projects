@@ -4,10 +4,11 @@
 U.S. Army National Guard service member and 
 2024 111th EN BN Soldier of the Year. B.S. in Cybersecurity and 
 Information Assurance from Western Governors University (NSA 
-CAE-Cyber Defense validated). Senior IT Service Technician with 
-hands-on experience in network infrastructure, endpoint support, 
-and systems administration at a federal contractor. Holding an 
-active DoD Secret clearance targeting SOC Analyst roles.
+CAE-Cyber Defense validated). Cyber Systems Security Engineer at 
+Lockheed Martin Aeronautics. Hands-on experience with STIG assessments,
+ACAS vulnerability scanning, and RMF-aligned compliance processes in a 
+federal environment. Holding an active DoD Secret clearance.
+CompTIA certified: CySA+, PenTest+, Security+, Network+, A+, Project+.
 
 ## Projects
 | Project | Description | Tools |
